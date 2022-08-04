@@ -52,8 +52,9 @@ def precipitation():
 
     """Return a list of all precipitation """
     # Query all pprecipitation
-    results = session.query(Measurement.date, Measurement.prcp).all()
-
+    results = session.query(Measurement.date, Measurement.prcp).\
+        filter(Measurement.date > prv_year).order_by(Measurement.date).all()
+        
     session.close()
 
     # Create a dictionary from the row data and append to a list of all_passengers
