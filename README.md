@@ -197,8 +197,11 @@ Complete the following steps:
 * Close out your session.
 
 ![daily_normal](https://user-images.githubusercontent.com/105587442/199576632-7172975a-6d13-436d-8dcd-e48f4d6a5f6c.png)
+
 ![data_precip](https://user-images.githubusercontent.com/105587442/199576648-f0fc18f8-3217-4a0c-9e29-db12a581e84e.png)
+
 ![tobs](https://user-images.githubusercontent.com/105587442/199576659-ff9a367e-5fb7-4739-963e-330f47152364.png)
+
 ![Trip_avg](https://user-images.githubusercontent.com/105587442/199576682-da4b97f4-34ec-4224-b7e2-69bf02d94d20.png)
 
 
