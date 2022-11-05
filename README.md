@@ -10,7 +10,7 @@
 
 4. Push the changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
+![daily_normal](https://user-images.githubusercontent.com/105587442/200120291-f211ee6f-e062-483d-b2d5-63b5fbc24802.png)
 
 ## Instructions
 
@@ -46,7 +46,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
-  ![precipitation](Images/precipitation.png)
+  ![data_precip](https://user-images.githubusercontent.com/105587442/200120292-871c9b47-c0f2-4521-879d-738e9174e68e.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -74,7 +74,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Plot the results as a histogram with `bins=12`, as shown in the following image:
 
-    ![station-histogram](Images/station-histogram.png)
+    ![tobs](https://user-images.githubusercontent.com/105587442/200120293-5ed5c5fc-213f-4190-bace-90bfba6a7715.png)
 
 * Close out your session.
 
@@ -162,7 +162,7 @@ Complete the following steps:
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
 
-    ![temperature](Images/temperature.png)
+    ![Trip_avg](https://user-images.githubusercontent.com/105587442/200120295-bbec6051-17e9-4060-888c-82f111347e6a.png)
 
 #### Daily Rainfall Average
 
@@ -176,7 +176,7 @@ Now that you have an idea of the temperature, let’s find out what the rainfall
 
 Calculate the daily normals for the duration of your trip. Normals are the averages for the minimum, average, and maximum temperatures.
 
-![daily_normal](https://user-images.githubusercontent.com/105587442/200120291-f211ee6f-e062-483d-b2d5-63b5fbc24802.png)
+
 
 You are provided with a function called `daily_normals` that will calculate the daily normals for a specific date. This date string will be in the format `%m-%d`. Make sure to use all historic TOBS that match that date string.
 
@@ -194,20 +194,10 @@ Complete the following steps:
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals, as shown in the following image:
 
-  ![daily-normals](Images/daily-normals.png)
+  
 
 * Close out your session.
 
-![data_precip](https://user-images.githubusercontent.com/105587442/200120292-871c9b47-c0f2-4521-879d-738e9174e68e.png)
-
-![tobs](https://user-images.githubusercontent.com/105587442/200120293-5ed5c5fc-213f-4190-bace-90bfba6a7715.png)
-
-![Trip_avg](https://user-images.githubusercontent.com/105587442/200120295-bbec6051-17e9-4060-888c-82f111347e6a.png)
-
-
-## Rubric
-
-[Unit 10 Homework Rubric](https://docs.google.com/document/d/1gT29iMF3avSvJruKpcHY4qovP5QitgXePqtjC6XESI0/edit?usp=sharing)
 
 - - -
 
