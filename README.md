@@ -176,6 +176,8 @@ Now that you have an idea of the temperature, let’s find out what the rainfall
 
 Calculate the daily normals for the duration of your trip. Normals are the averages for the minimum, average, and maximum temperatures.
 
+![daily_normal](https://user-images.githubusercontent.com/105587442/200120291-f211ee6f-e062-483d-b2d5-63b5fbc24802.png)
+
 You are provided with a function called `daily_normals` that will calculate the daily normals for a specific date. This date string will be in the format `%m-%d`. Make sure to use all historic TOBS that match that date string.
 
 Complete the following steps:
@@ -196,13 +198,11 @@ Complete the following steps:
 
 * Close out your session.
 
-![daily_normal](https://user-images.githubusercontent.com/105587442/199576632-7172975a-6d13-436d-8dcd-e48f4d6a5f6c.png)
+![data_precip](https://user-images.githubusercontent.com/105587442/200120292-871c9b47-c0f2-4521-879d-738e9174e68e.png)
 
-![data_precip](https://user-images.githubusercontent.com/105587442/199576648-f0fc18f8-3217-4a0c-9e29-db12a581e84e.png)
+![tobs](https://user-images.githubusercontent.com/105587442/200120293-5ed5c5fc-213f-4190-bace-90bfba6a7715.png)
 
-![tobs](https://user-images.githubusercontent.com/105587442/199576659-ff9a367e-5fb7-4739-963e-330f47152364.png)
-
-![Trip_avg](https://user-images.githubusercontent.com/105587442/199576682-da4b97f4-34ec-4224-b7e2-69bf02d94d20.png)
+![Trip_avg](https://user-images.githubusercontent.com/105587442/200120295-bbec6051-17e9-4060-888c-82f111347e6a.png)
 
 
 ## Rubric
@@ -218,3 +218,9 @@ Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overv
 - - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+
+
+
+
